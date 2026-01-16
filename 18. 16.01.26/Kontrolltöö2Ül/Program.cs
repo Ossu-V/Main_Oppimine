@@ -29,7 +29,7 @@
         }
         static void PüramiidiKõrgus()
         {
-            Console.WriteLine("Sisesta Püramiidi suurus: ");
+            Console.WriteLine("Sisesta Püramiidi kõrgus: ");
 
             int i, j, n;
             n = Convert.ToInt32(Console.ReadLine());
