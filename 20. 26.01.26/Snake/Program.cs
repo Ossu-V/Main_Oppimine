@@ -1,4 +1,4 @@
-﻿namespace Battleship
+﻿namespace Snake
 {
     internal class Program
     {
