@@ -1,4 +1,4 @@
-﻿namespace Hangman
+﻿namespace FlappyBird
 {
     internal class Program
     {
